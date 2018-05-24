@@ -5,9 +5,9 @@ class Contact extends Component{
         return(
             <div>
                 <h1>CONTACT</h1>
-                <h1>CONTACT</h1>
-                <h1>CONTACT</h1>
-                <h1>CONTACT</h1>
+                <h2>CONTACT</h2>
+                <h3>CONTACT</h3>
+                <h4>CONTACT</h4>
             </div>
         );
     }

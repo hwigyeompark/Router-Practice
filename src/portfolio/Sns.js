@@ -5,9 +5,9 @@ class Sns extends Component{
         return(
           <div>
               <h1>SNS</h1>
-              <h1>SNS</h1>
-              <h1>SNS</h1>
-              <h1>SNS</h1>
+              <h2>SNS</h2>
+              <h3>SNS</h3>
+              <h4>SNS</h4>
           </div>
         );
     }
